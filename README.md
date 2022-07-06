@@ -18,7 +18,7 @@ installation
 -Open your Git bash application
 -Type in command mkdir Professional README
 -By using cd command go into Mini personal assistant
--Enter git clone https://github.com/sachmilan/employee_tracker.git
+-Enter git clone https://github.com/sachmilan/Where-s-my-Employees-.git
 
 ## Credits
 
